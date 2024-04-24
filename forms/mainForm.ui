@@ -239,7 +239,7 @@
      </layout>
     </widget>
    </widget>
-   <widget class="QGroupBox" name="quideGroupBox">
+   <widget class="QGroupBox" name="guideGroupBox">
     <property name="geometry">
      <rect>
       <x>556</x>
